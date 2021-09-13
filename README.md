@@ -1,6 +1,5 @@
 - Hello, I’m Tre Hultzen
 - I am aspiring to be a full-stack web developer
-- I’m currently learning JavaScript, React.js, and Node.js
 - hultzentre@gmail.com
 
 <!---
